@@ -1,0 +1,28 @@
+h1 {
+  color: goldenrod;
+  font-family: 'Noto Serif Display', serif;
+  font-size: 4rem;
+}
+
+body {
+  font-family: 'EB Garamond', serif;
+  font-size: 2rem;
+  color: #fff;
+  background-image: url("images/casino-background.jpg");
+  text-align: center;
+  font-weight: bold;
+}
+
+#message-el {
+  font-style: italic;
+}
+
+button {
+  color: #016f32;
+  background-color: goldenrod;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  font-weight: bold;
+  border-radius: 0.5rem;
+  margin: 5px 0;
+}
